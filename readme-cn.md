@@ -1,6 +1,6 @@
-# tauri-translator
+# tauri-lark-email
 
-一个独立的桌面应用程序，用于 translator，使用 Tauri 构建。
+一个独立的桌面应用程序，用于 lark email，使用 Tauri 构建。
 
 ![1](readme_files/1.png)
 
@@ -12,17 +12,17 @@
 ## 安装
 
 ### 预构建二进制文件
-您可以从 [Releases](https://github.com/litongjava/tauri-translator/releases) 页面下载适用于您平台的预构建二进制文件。
+您可以从 [Releases](https://github.com/litongjava/tauri-lark-email/releases) 页面下载适用于您平台的预构建二进制文件。
 
 ### 从源代码构建
 
 1. 克隆此仓库：
     ```bash
-    git clone https://github.com/litongjava/tauri-translator
+    git clone https://github.com/litongjava/tauri-lark-email
     ```
 2. 进入项目目录：
     ```bash
-    cd tauri-translator
+    cd tauri-lark-email
     ```
 3. 安装 tauri：
     ```bash

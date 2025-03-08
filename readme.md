@@ -1,6 +1,6 @@
-## tauri-translator
+## tauri-lark-mail
 
-A standalone desktop application for translator, built using Tauri.
+A standalone desktop application for lark email, built using Tauri.
 
 ![1](readme_files/1.png)
 
@@ -12,17 +12,17 @@ A standalone desktop application for translator, built using Tauri.
 ## Installation
 
 ### Pre-built binaries
-You can download the pre-built binaries for your platform from the [Releases](https://github.com/litongjava/tauri-translator/releases) page.
+You can download the pre-built binaries for your platform from the [Releases](https://github.com/litongjava/tauri-lark-mail/releases) page.
 
 ### Building from Source
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/litongjava/tauri-translator
+    git clone https://github.com/litongjava/tauri-lark-mail
     ```
 2. Navigate to the project directory:
     ```bash
-    cd tauri-translator
+    cd tauri-lark-mail
     ```
 3. Install tauri:
     ```bash
